@@ -1,0 +1,142 @@
+body{
+    margin: 0px;
+    background-color: #012030;
+}
+header{
+    width: 100%;
+    background-color: #012030;
+    display: flex;
+    justify-content: end;
+}
+header img{
+    width: 78px;
+    height: 64px;
+    
+
+}
+header p{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+    margin-right: 2%;
+}
+.men{
+    width: 100%;
+    height: 9em;
+    background-color: #13678A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.barra1{
+    width: 100%;
+    background-color: #DAFDBA;
+    height: 0.5em;
+}
+.barra2{
+    width: 100%;
+    background-color: #DAFDBA;
+    height: 0.5em;
+}
+.pp{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.pp2{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 68%;
+    margin-top: 2em;
+    margin-right: 2%;
+}
+.let{
+    color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+
+
+.article{
+   width: 100%;
+   height: 10   0% ;
+   margin-bottom: 3em;
+   background-image: url(./imagenes/61tX6L542kL._SX3000_.jpg);
+   background-repeat: no-repeat;    
+   background-size: cover;
+}
+.flechas{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 2em;
+}
+.flechas img{
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 5em;
+}
+.cajas{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin-bottom: 3em;
+    margin-top: 10em;
+}
+.caj{
+    width: 320px;
+    height: 371px;
+    background: rgba(19, 103, 138, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-bottom: 3em;
+    
+}
+.cc{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.caj p{
+    color: #000000;
+    font-family: 'Inter';
+    font-size: 27px;
+    margin-left: 1em;   
+    font-style: italic;
+}
+.caj img{
+    width: 290px;
+    height: 291px;
+    margin-bottom: 2em;
+}
+
+footer{
+    width: 100%;
+    background-color: #45C4B0;
+    height: 9em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+footer p{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 20px;
+}
+.bar1{
+width: 100%;
+background-color: #9AEBA3;
+height: 1em;
+}
+.bar2{
+width: 100%;
+background-color: #9AEBA3;
+height: 1em;
+}
+.ll{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
